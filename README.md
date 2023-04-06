@@ -46,4 +46,38 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 
 https://youtu.be/5NJqfDc-VHg
 
-![](https://youtu.be/nTQUwghvy5Q)
+## Introducing Google Cloud
+
+This section identifies some of the key benefits of using Google Cloud. It's here that we introduce the components of the Google network infrastructure, and explore the differences between infrastructure as a service (IaaS) and platform as a service (PaaS).
+
+## Resources and Access in the Cloud
+
+This section explores how resources get organized with projects, and how access to those resources gets shared with the right part of a workforce through a tool called Identity and Access Management (IAM). It's also in this section that we identify different ways to interact with Google Cloud.
+
+## Virtual Machines and Networks in the Cloud
+
+This section of the course explores how Google Compute Engine works, with a focus on virtual networking.
+
+## Storage in the Cloud
+
+This section of the course showcases five core Google Cloud storage products: Cloud Storage, Cloud Bigtable, Cloud SQL, Cloud Spanner, and Firestore.
+
+## Containers in the Cloud
+
+This section of the course explores containers and how they can be managed with Kubernetes and Google Kubernetes Engine.
+
+## Applications in the Cloud
+
+The focus of this section of the course is developing applications in the cloud. It's here that we'll explore App Engine, two API management tools–Apigee Edge and Cloud Endpoints–and Cloud Run.
+
+## Developing and Deploying in the Cloud
+
+This section explores Google Cloud methods for development in the cloud, which includes Cloud Source Repositories, Cloud Functions, and Terraform. This section also explores deployment with infrastructure as code.
+
+## Logging and Monitoring in the Cloud
+
+This section highlights the importance of monitoring performance in relation to product reliability, then moves on to define service level indicators (SLIs), service level objectives (SLOs), and service level agreements (SLAs). It also examines the purpose of integrated monitoring, logging, alerting, and debugging.
+
+## Course Summary
+
+In this final section, we review what's been presented in this course and discuss the next steps to continue your cloud learning journey.
