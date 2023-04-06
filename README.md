@@ -39,3 +39,10 @@ When you complete this course, you can earn the badge displayed above! View all 
 - 計劃在 Google Cloud 上部署應用程序和創建應用程序環境的個人。
 - 系統運營專業人員、開始使用 Google Cloud 的解決方案架構師和開發人員。
 - 高管和業務決策者評估 Google Cloud 滿足其業務需求的潛力。
+
+## Course Introduction
+
+This section welcomes learners to the Google Cloud Fundamentals: Core Infrastructure course, and provides an overview of the course structure and goals.
+
+https://youtu.be/5NJqfDc-VHg
+
