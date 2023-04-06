@@ -46,4 +46,4 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 
 https://youtu.be/5NJqfDc-VHg
 
-[![]()](https://youtu.be/nTQUwghvy5Q)
+[![]](https://youtu.be/nTQUwghvy5Q)
