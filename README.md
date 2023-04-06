@@ -46,15 +46,44 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 
 本部分歡迎學習者學習 Google Cloud 基礎：核心基礎設施課程，並提供課程結構和目標的概述。
 
-#### Course Introduction
+### Course Introduction
 
-VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
+> VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
 
-
-
-## Introducing Google Cloud
+## Introducing Google Cloud 谷歌雲簡介
 
 This section identifies some of the key benefits of using Google Cloud. It's here that we introduce the components of the Google network infrastructure, and explore the differences between infrastructure as a service (IaaS) and platform as a service (PaaS).
+
+本部分介紹了使用 Google Cloud 的一些主要優勢。 在這裡，我們介紹了 Google 網絡基礎設施的組件，並探討了基礎設施即服務 (IaaS) 和平台即服務 (PaaS) 之間的區別。
+
+### Cloud computing overview 雲計算概述
+
+> VIDEO: https://youtu.be/ph5hjgOAf40 (3 minutes)
+
+### IaaS and PaaS 基礎設施即服務和平台即服務
+
+> VIDEO: https://youtu.be/KHHZTSzlOWg (2 minutes)
+
+### The Google Cloud network 谷歌雲網絡
+
+> VIDEO: https://youtu.be/bJCtk_Ald7s (2 minutes)
+
+### Environmental impact 對環境造成的影響
+
+> VIDEO: https://youtu.be/yOoOz6umhz0 (1 minute)
+ 
+### Security 安全
+
+> VIDEO: https://youtu.be/BggWZl8qTzk (5 minutes)
+
+### Open source ecosystems 開源生態系統
+
+> VIDEO: https://youtu.be/1Ciw8DLhKfM (1 minute)
+
+### Pricing and billing 定價和計費
+
+> VIDEO: https://youtu.be/Iu-oiQnk79E (3 minutes)
+ 
 
 ## Resources and Access in the Cloud
 
