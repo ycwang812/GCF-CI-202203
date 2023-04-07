@@ -47,7 +47,7 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 
 > DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M0_Course_Intro.pdf
 
-### 0.1. Course Introduction 課程介紹
+### Course Introduction 課程介紹
 
 > VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
 
@@ -93,34 +93,34 @@ This section identifies some of the key benefits of using Google Cloud. It's her
 > QUIZ: https://github.com/ycwang812/GCF-CI-202203/blob/main/Quiz%20:%20Introducing%20Google%20Cloud.md
 
 
-## Resources and Access in the Cloud
+## Module 2. Resources and Access in the Cloud
 
 This section explores how resources get organized with projects, and how access to those resources gets shared with the right part of a workforce through a tool called Identity and Access Management (IAM). It's also in this section that we identify different ways to interact with Google Cloud.
 
-## Virtual Machines and Networks in the Cloud
+## Module 3. Virtual Machines and Networks in the Cloud
 
 This section of the course explores how Google Compute Engine works, with a focus on virtual networking.
 
-## Storage in the Cloud
+## Module 4. Storage in the Cloud
 
 This section of the course showcases five core Google Cloud storage products: Cloud Storage, Cloud Bigtable, Cloud SQL, Cloud Spanner, and Firestore.
 
-## Containers in the Cloud
+## Module 5. Containers in the Cloud
 
 This section of the course explores containers and how they can be managed with Kubernetes and Google Kubernetes Engine.
 
-## Applications in the Cloud
+## Module 6. Applications in the Cloud
 
 The focus of this section of the course is developing applications in the cloud. It's here that we'll explore App Engine, two API management tools–Apigee Edge and Cloud Endpoints–and Cloud Run.
 
-## Developing and Deploying in the Cloud
+## Module 7. Developing and Deploying in the Cloud
 
 This section explores Google Cloud methods for development in the cloud, which includes Cloud Source Repositories, Cloud Functions, and Terraform. This section also explores deployment with infrastructure as code.
 
-## Logging and Monitoring in the Cloud
+## Module 8. Logging and Monitoring in the Cloud
 
 This section highlights the importance of monitoring performance in relation to product reliability, then moves on to define service level indicators (SLIs), service level objectives (SLOs), and service level agreements (SLAs). It also examines the purpose of integrated monitoring, logging, alerting, and debugging.
 
-## Course Summary
+## Module 9. Course Summary
 
 In this final section, we review what's been presented in this course and discuss the next steps to continue your cloud learning journey.
