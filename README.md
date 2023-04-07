@@ -39,20 +39,20 @@ Google Cloud 基礎知識：核心基礎設施介紹了使用 Google Cloud 的�
 - 高管和業務決策者評估 Google Cloud 滿足其業務需求的潛力。
 
 
-## Course Introduction 課程介紹
+## 1.Course Introduction 課程介紹
 
 This section welcomes learners to the Google Cloud Fundamentals: Core Infrastructure course, and provides an overview of the course structure and goals.
 
 本部分歡迎學習者學習 Google Cloud 基礎：核心基礎設施課程，並提供課程結構和目標的概述。
 
-### Course Introduction 課程介紹
-
 > DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M0_Course_Intro.pdf
+
+### Course Introduction 課程介紹
 
 > VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
 
 
-## Introducing Google Cloud 谷歌雲簡介
+## 2.Introducing Google Cloud 谷歌雲簡介
 
 This section identifies some of the key benefits of using Google Cloud. It's here that we introduce the components of the Google network infrastructure, and explore the differences between infrastructure as a service (IaaS) and platform as a service (PaaS).
 
