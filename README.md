@@ -93,34 +93,78 @@ This section identifies some of the key benefits of using Google Cloud. It's her
 > QUIZ: https://github.com/ycwang812/GCF-CI-202203/blob/main/Quiz%20:%20Introducing%20Google%20Cloud.md
 
 
-## Module 2. Resources and Access in the Cloud
+## Module 2. Resources and Access in the Cloud 雲中的資源和訪問
 
 This section explores how resources get organized with projects, and how access to those resources gets shared with the right part of a workforce through a tool called Identity and Access Management (IAM). It's also in this section that we identify different ways to interact with Google Cloud.
 
-## Module 3. Virtual Machines and Networks in the Cloud
+本節探討資源如何與項目一起組織，以及如何通過稱為身份和訪問管理 (IAM) 的工具與合適的員工共享對這些資源的訪問權限。 也在本節中，我們確定了與 Google Cloud 交互的不同方式。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M2_Resources%20and%20Access%20in%20the%20Cloud.pdf
+
+
+## Module 3. Virtual Machines and Networks in the Cloud 雲中的虛擬機和網絡
 
 This section of the course explores how Google Compute Engine works, with a focus on virtual networking.
 
-## Module 4. Storage in the Cloud
+本課程的這一部分探討了 Google Compute Engine 的工作原理，重點是虛擬網絡。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M3_Virtual%20Machines%20and%20Networks%20in%20the%20Cloud.pdf
+
+
+## Module 4. Storage in the Cloud 雲端存儲
 
 This section of the course showcases five core Google Cloud storage products: Cloud Storage, Cloud Bigtable, Cloud SQL, Cloud Spanner, and Firestore.
 
-## Module 5. Containers in the Cloud
+課程的這一部分展示了五個核心的谷歌云存儲產品：雲存儲、雲大表、雲 SQL、雲 Spanner 和 Firestore。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M4_Storage%20in%20the%20Cloud.pdf
+
+
+## Module 5. Containers in the Cloud 雲中的容器
 
 This section of the course explores containers and how they can be managed with Kubernetes and Google Kubernetes Engine.
 
-## Module 6. Applications in the Cloud
+本課程的這一部分探討容器以及如何使用 Kubernetes 和 Google Kubernetes Engine 管理它們。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M5_Containers%20in%20the%20Cloud.pdf
+
+
+## Module 6. Applications in the Cloud 雲端應用
 
 The focus of this section of the course is developing applications in the cloud. It's here that we'll explore App Engine, two API management tools–Apigee Edge and Cloud Endpoints–and Cloud Run.
 
-## Module 7. Developing and Deploying in the Cloud
+這部分課程的重點是在雲中開發應用程序。 在這裡，我們將探索 App Engine、兩個 API 管理工具（Apigee Edge 和 Cloud Endpoints）以及 Cloud Run。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M6_Applications%20in%20the%20Cloud.pdf
+
+
+## Module 7. Developing and Deploying in the Cloud 在雲中開發和部署
 
 This section explores Google Cloud methods for development in the cloud, which includes Cloud Source Repositories, Cloud Functions, and Terraform. This section also explores deployment with infrastructure as code.
 
-## Module 8. Logging and Monitoring in the Cloud
+本部分探討用於在雲中進行開發的 Google Cloud 方法，其中包括 Cloud Source Repositories、Cloud Functions 和 Terraform。 本節還探討了使用基礎設施即代碼進行部署。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M7_Development%20in%20the%20Cloud.pdf
+
+
+## Module 8. Logging and Monitoring in the Cloud 雲中的日誌記錄和監控
 
 This section highlights the importance of monitoring performance in relation to product reliability, then moves on to define service level indicators (SLIs), service level objectives (SLOs), and service level agreements (SLAs). It also examines the purpose of integrated monitoring, logging, alerting, and debugging.
 
-## Module 9. Course Summary
+本節強調監控與產品可靠性相關的性能的重要性，然後繼續定義服務水平指標 (SLI)、服務水平目標 (SLO) 和服務水平協議 (SLA)。 它還檢查了集成監視、日誌記錄、警報和調試的目的。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M8_Logging%20and%20Monitoring%20in%20the%20Cloud.pdf
+
+
+## Module 9. Course Summary 課程總結
 
 In this final section, we review what's been presented in this course and discuss the next steps to continue your cloud learning journey.
+
+在這最後一部分中，我們將回顧本課程中介紹的內容，並討論繼續您的雲學習之旅的後續步驟。
+
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M9_Course%20Summary.pdf
+
+
+## Course Resources 課程資源
+
+> DOCUMENT:https://github.com/ycwang812/GCF-CI-202203/blob/main/T-GCPFCI-B-m9-l2-file-en-48.pdf.en.pdf
