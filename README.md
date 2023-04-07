@@ -6,10 +6,6 @@ Google Cloud 基礎知識：核心基礎設施介紹了使用 Google Cloud 的�
 
 ![](s7naBlImDH2G1ce0bCx31RtySA4QYGLiGdnlak-Ggtg%3D.png)
 
-When you complete this course, you can earn the badge displayed above! View all the badges you have earned by visiting your profile page. Boost your cloud career by showing the world the skills you have developed!
-
-完成本課程後，您可以獲得上面顯示的徽章！ 通過訪問您的個人資料頁面查看您獲得的所有徽章。 通過向世界展示您所掌握的技能來提升您的雲職業生涯！
-
 
 ## Course Info
 
@@ -49,8 +45,9 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 
 本部分歡迎學習者學習 Google Cloud 基礎：核心基礎設施課程，並提供課程結構和目標的概述。
 
-### Course Introduction
+### Course Introduction 課程介紹
 
+> DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M0_Course_Intro.pdf
 > VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
 
 
