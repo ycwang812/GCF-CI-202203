@@ -48,6 +48,7 @@ This section welcomes learners to the Google Cloud Fundamentals: Core Infrastruc
 ### Course Introduction 課程介紹
 
 > DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M0_Course_Intro.pdf
+
 > VIDEO: https://youtu.be/5NJqfDc-VHg (2 minutes)
 
 
