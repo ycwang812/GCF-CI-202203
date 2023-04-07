@@ -1,4 +1,4 @@
-# Quiz : Introducing Google Cloud
+# Quiz : Introducing Google Cloud 谷歌雲簡介
 
 
 1. What cloud computing service binds application code to libraries that give access to the infrastructure an application needs? 哪種雲計算服務將應用程序代碼綁定到允許訪問應用程序所需基礎設施的庫？

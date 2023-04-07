@@ -88,7 +88,7 @@ This section identifies some of the key benefits of using Google Cloud. It's her
 
 > VIDEO: https://youtu.be/Iu-oiQnk79E (3 minutes)
 
-### Quiz : Introducing Google Cloud
+### Quiz : Introducing Google Cloud 谷歌雲簡介
 
 > QUIZ: https://github.com/ycwang812/GCF-CI-202203/blob/main/Quiz%20:%20Introducing%20Google%20Cloud.md
 
@@ -100,6 +100,34 @@ This section explores how resources get organized with projects, and how access 
 本節探討資源如何與項目一起組織，以及如何通過稱為身份和訪問管理 (IAM) 的工具與合適的員工共享對這些資源的訪問權限。 也在本節中，我們確定了與 Google Cloud 交互的不同方式。
 
 > DOCUMENT: https://github.com/ycwang812/GCF-CI-202203/blob/main/PDF_OD_M2_Resources%20and%20Access%20in%20the%20Cloud.pdf
+
+### Google Cloud resource hierarchy Google Cloud 資源層次結構
+
+> VIDEO: https://youtu.be/zdxQZh2iOFE (5 minutes)
+
+### Identity and Access Management (IAM) 身份和訪問管理 (IAM)
+
+> VIDEO: https://youtu.be/mi72UwQJLXY (3 minutes)
+
+### Service accounts 服務帳號
+
+ > VIDEO: https://youtu.be/1MTQnROOWS0 (1 minute)
+
+### Cloud Identity 雲身份
+
+ > VIDEO: https://youtu.be/EZccX9nFaiI (1 minute)
+
+### Interacting with Google Cloud 與谷歌雲交互
+
+> VIDEO: https://youtu.be/D9P4mA59p78 (3 minutes)
+
+### Google Cloud Fundamentals: Getting Started with Cloud Marketplace
+
+> LAB: https://www.cloudskillsboost.google/course_sessions/2595606/labs/362517 (25 minutes)
+
+### Quiz: Resources and Access in Google Cloud
+
+> QUIZ: 
 
 
 ## Module 3. Virtual Machines and Networks in the Cloud 雲中的虛擬機和網絡
